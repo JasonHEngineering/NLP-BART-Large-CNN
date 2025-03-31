@@ -16,3 +16,6 @@ This script requires installation of PyTorch and Hugging Face (transformers) in 
 
 # Caveat
 As in any NLP technique, mistakes is possible. Please note that the original transcript before any processing shall remain as source of truth. Output summarization from this technique cannot be referenced reliably. 
+
+# Reference
+Referenced in https://jashuang1983.wordpress.com/nlp-bart-large-cnn/
