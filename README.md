@@ -13,3 +13,6 @@ Both sample transcript and output file are also archived here for reference.
 
 # Dependencies
 This script requires installation of PyTorch and Hugging Face (transformers) in addition to Pandas.
+
+# Caveat
+As in any NLP technique, mistakes is possible. Please note that the original transcript before any processing shall remain as source of truth. Output summarization from this technique cannot be referenced reliably. 
